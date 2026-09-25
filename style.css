@@ -1,0 +1,35 @@
+body { background-color:#927EA1; }
+
+h1 {  color:#937FA2; 
+      text-align:center;
+	  font-size: 40pt;
+	  font-weight: normal;
+	  font-family: sans-serif;
+	  font-style:  italic;
+	}
+p { 
+    color:#B6698B 
+	background-color: blue;
+	padding: 0.6em;
+	margin-bottom: 2em;
+	border: 4px dashed black;
+	width: 50%;
+	min-width: 40em;
+    }
+
+.kanan { text-align: right; }
+.kiri { text-align: left; }
+.tengah { text-align: center; }
+.begronbirutua { background-color: #111184; }
+.begronorange { background-color: #FFA500; }
+
+	
+	
+div {
+	text-aign:center;
+}
+
+a {
+	color: #19BSFE;
+	text-decoration:nonen;
+}
